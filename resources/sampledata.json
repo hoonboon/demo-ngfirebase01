@@ -1,0 +1,32 @@
+{
+  "books" : {
+    "-KwKsrLXuGNe2wUqPOaH" : {
+      "authors" : [ {
+        "name" : "John",
+        "surname" : "Doe"
+      }, {
+        "name" : "Dave",
+        "surname" : "Smith"
+      }, {
+        "name" : "Jane",
+        "surname" : "Robins"
+      } ],
+      "title" : "My book #0"
+    },
+    "-KwKz1Pgwkw8el8b5wOG" : {
+      "authors" : [ {
+        "name" : "John",
+        "surname" : "Doe"
+      }],
+      "title" : "My book #1"
+    },
+    "-KwKz1Pgwkw8el8b5wOI": {
+        "authors": [
+            {
+                "name": "John",
+                "surname": "Doe"
+            }],
+        "title": "My book #2"
+    }
+  }
+}
